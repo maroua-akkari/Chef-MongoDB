@@ -1,4 +1,4 @@
-# mongo
+# Chef Mongodb
 
 Used Chef to automate a mongo test structure
 
