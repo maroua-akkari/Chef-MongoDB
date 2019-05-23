@@ -1,5 +1,8 @@
 # Chef MongoDB
 
+Go into mongo folder and clone the repo
+
+
 Used Chef to automate a mongo test structure
 
 Ran tests to see if mongodb is:
